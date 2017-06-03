@@ -1,0 +1,4 @@
+crudeoil
+us30yeartreasurybonds
+^GSPC
+^IXIC

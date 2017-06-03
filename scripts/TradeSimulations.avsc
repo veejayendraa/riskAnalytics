@@ -1,0 +1,1 @@
+{"type":"record","name":"TradeSimulation","namespace":"com.vij.riskAnalytics.simulations.trades.hdfs","fields":[{"name":"dealId","type":"string"},{"name":"simulationId","type":"string"},{"name":"underlyer","type":"string"},{"name":"simulatedPnLAmt","type":"double"},{"name":"position","type":"double"},{"name":"portfolio","type":"string"},{"name":"businessDate","type":"int"}]}
